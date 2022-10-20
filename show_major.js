@@ -1,9 +1,8 @@
 var studentName = "Betty";
 var majorCode = "BIOL";
 
-if (
 
-)
-
-console.log()
+console.log("Student: " + studentName);
+console.log("Major: " + majorCode);
+console.log("Advising Location: " )
 
